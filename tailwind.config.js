@@ -5,7 +5,15 @@ module.exports = {
     './css/output.css',
   ],
   theme: {
-    extend: {},
+    extend: {
+      backgroundImage: {
+        'control-play': "url('../images/logos.png')",
+      }
+    }/* ,
+    backgroundPosition: {
+      'center-right': 'right center',
+    } */
   },
   plugins: [],
+  
 }
