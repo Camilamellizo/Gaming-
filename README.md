@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Gaming Platform
 
 ## Bonjour! 👋
@@ -10,4 +9,4 @@ Gaming Platform Web Design is a simple, clean, professional Landing Page UI Kit 
 
 **To do this challenge, you need an understanding of HTML, CSS and web desing.**
 
-![https://github.com/Camilamellizo/gaming]()
+![https://github.com/Camilamellizo/gaming](https://raw.githubusercontent.com/Camilamellizo/gaming/main/1.jpg)
