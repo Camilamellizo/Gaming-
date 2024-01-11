@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Gaming Platform
 
 ## Bonjour! 👋
